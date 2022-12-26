@@ -1,0 +1,2 @@
+# MY LICENCE FILE
+lorem
